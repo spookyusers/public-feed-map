@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Princeton Downtown Traffic Cam",
+    "latitude": 40.3497,
+    "longitude": -74.6596,
+    "type": "traffic",
+    "url": "https://example.com/princeton-traffic",
+    "embed_url": "https://example.com/embed/princeton-traffic"
+  },
+  {
+    "name": "Plainsboro Weather Cam",
+    "latitude": 40.3296,
+    "longitude": -74.5947,
+    "type": "weather",
+    "url": "https://example.com/plainsboro-weather"
+  },
+  {
+    "name": "West Windsor Community Stream",
+    "latitude": 40.2985,
+    "longitude": -74.6162,
+    "type": "stream",
+    "url": "https://example.com/west-windsor-stream",
+    "embed_url": "https://example.com/embed/west-windsor-stream"
+  }
+]
