@@ -9,3 +9,9 @@ cameras, sensors, anything.
 - Geolocation-based Leaflet map working
 - 5-mile radius filtering implemented
 - Test feeds displayed correctly
+
+## Pause note
+
+Project is intentionally paused.
+Core map + radius filtering works.
+Next step would be curating additional verified public feeds.
