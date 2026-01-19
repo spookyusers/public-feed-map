@@ -1,25 +1,23 @@
 [
   {
-    "name": "Princeton Downtown Traffic Cam",
-    "latitude": 40.3497,
-    "longitude": -74.6596,
+    "name": "USGS Stony Brook Streamgage Webcam (Princeton, NJ)",
+    "latitude": 40.3576,
+    "longitude": -74.6674,
+    "type": "environmental",
+    "url": "https://www.usgs.gov/media/webcams/streamgage-01401000-stony-brook-princeton-nj"
+  },
+  {
+    "name": "NJDOT Traffic Cameras (Central NJ)",
+    "latitude": 40.3256,
+    "longitude": -74.6459,
     "type": "traffic",
-    "url": "https://example.com/princeton-traffic",
-    "embed_url": "https://example.com/embed/princeton-traffic"
+    "url": "https://dot.nj.gov/transportation/traffic/cameras/"
   },
   {
-    "name": "Plainsboro Weather Cam",
-    "latitude": 40.3296,
-    "longitude": -74.5947,
-    "type": "weather",
-    "url": "https://example.com/plainsboro-weather"
-  },
-  {
-    "name": "West Windsor Community Stream",
-    "latitude": 40.2985,
-    "longitude": -74.6162,
-    "type": "stream",
-    "url": "https://example.com/west-windsor-stream",
-    "embed_url": "https://example.com/embed/west-windsor-stream"
+    "name": "Princeton University Media Central Live",
+    "latitude": 40.3430,
+    "longitude": -74.6514,
+    "type": "campus",
+    "url": "https://mediacentrallive.princeton.edu/home"
   }
 ]
